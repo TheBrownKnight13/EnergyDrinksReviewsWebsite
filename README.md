@@ -6,6 +6,8 @@ Reviews
 
 [Celsius Strawberry Lemonade Review     Score: 4.0 / 10](https://thebrownknight13.github.io/EnergyDrinksReviewsWebsite/CelsiusStrawberryLemonadeReview.html)
 
+[Monster Ultra Strawberry Dreams Review Score: 7.8 / 10](https://thebrownknight13.github.io/EnergyDrinksReviewsWebsite/MonsterUltraStrawberryDreamsReview.html)
+
 
 
 
