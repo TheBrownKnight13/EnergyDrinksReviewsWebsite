@@ -8,7 +8,7 @@ Reviews
 
 [Monster Ultra Strawberry Dreams Review Score: 7.8 / 10](https://thebrownknight13.github.io/EnergyDrinksReviewsWebsite/MonsterUltraStrawberryDreamsReview.html)
 
-[Celsius Oasis Vibe Review              Score: 5.4 / 10][https://thebrownknight13.github.io/EnergyDrinksReviewsWebsite/CelsiusOasisVibeReiview.html]
+[Celsius Oasis Vibe Review              Score: 5.4 / 10](https://thebrownknight13.github.io/EnergyDrinksReviewsWebsite/CelsiusOasisVibeReiview.html)
 
 
 
