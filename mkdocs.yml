@@ -1,0 +1,85 @@
+site_name: Energy Drinks Reviews
+repo_url: https://github.com/TheBrownKnight13/EnergyDrinksReviewsWebsite
+repo_name: EnergyDrinksReviewWebsite
+
+theme:
+  icon:
+    repo: fontawesome/brands/github
+
+  logo: assets/drink_icon.jpg
+  favicon: assets/drink_icon.jpg
+  name: material
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.indexes
+    - navigation.path
+  palette:
+    - primary: teal
+      accent: orange
+      scheme: slate
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: Switch to light mode
+
+    - primary: teal
+      accent: orange
+      scheme: default
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to dark mode
+
+markdown_extensions:
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.tasklist:
+      clickable_checkbox: true
+      custom_checkbox: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences
+  - pymdownx.details
+  - pymdownx.caret
+  - pymdownx.tilde
+  - admonition
+  - attr_list
+  - def_list
+  - md_in_html
+  - tables
+
+
+plugins:
+  - search
+  - blog:
+      enabled: true
+      blog_dir: reviews
+      authors: true
+  # - rss:
+  #     match_path: "reviews/posts/.*"
+  #     date_from_meta:
+  #       as_creation: date.created
+  #       as_update: date.updated
+  # - git-committers:
+  #     repository: Jampamane/website
+  #     branch: main
+
+extra_css:
+  - styles/captcha.css
+  - styles/home_table.css
+
+extra_javascript:
+    - https://unpkg.com/tablesort@5.3.0/dist/tablesort.min.js
+    - javascripts/tablesort.js
+    - javascripts/lazy_loading.js
+#   - javascripts/scroll.js
+#   - javascripts/smooth_homepage_image.js
+#   - javascripts/giscus_theme.js
+
+nav:
+  - Home: index.md
+  - Reviews:
+    - reviews/index.md
+  - Subscribe:
+    - subscribe.md

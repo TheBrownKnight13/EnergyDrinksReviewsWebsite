@@ -1,0 +1,15 @@
+.md-typeset__table, .md-typeset__scrollwrap {
+    display: flex;
+    justify-content: center; /* Center horizontally */
+    align-items: center; /* Center vertically if needed */
+}
+
+tr, td, thead, tbody {
+    font-size: 0.8rem;
+}
+
+@media screen and (max-width: 768px) {
+    tr, td, thead, tbody {
+        font-size: 0.6rem;
+    }
+}
