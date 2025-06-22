@@ -23,5 +23,5 @@ hide:
 | 11/11/24 | [Monster Ultra Vice Guava](reviews/posts/monster_ultra_vice_guava.md)                                      | 7.0 / 10 |
 | 12/08/24 | [Monster Aussie Lemonade](reviews/posts/monster_aussie_lemonade.md)                                        | 1.8 / 10 |
 | 01/24/25 | [G Fuel Watermelon Limeade](reviews/posts/g_fuel_watermelon_limeade.md)                                    | 5.2 / 10 |
-| 01/24/25 | **NEW!** [Goat Fuel Babe Ruth Edition](reviews/posts/goat_fuel_babe_ruth_edition.md)                       | 4.8 / 10 |
+| 06/22/25 | **NEW!** [Goat Fuel Babe Ruth Edition](reviews/posts/goat_fuel_babe_ruth_edition.md)                       | 4.8 / 10 |
 
