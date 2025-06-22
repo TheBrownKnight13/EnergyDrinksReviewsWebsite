@@ -9,7 +9,7 @@ categories:
 # Babe Ruth Goat Fuel Edition
 Score: **4.8 / 10**
 
-![Picture of can](images/goat_fuel_babe_ruth_edition.jpg){ width="300" align="right" }
+![Picture of can](images/goat_fuel_babe_ruth.jpg){ width="300" align="right" }
 
 Good morning loyal fans - I have returned after a long hiatus to drop a review on the Goat Fuel ‘Babe Ruth Edition’ Blueberry Lemonade flavored drink. For those who are unaware, Goat Fuel is the energy drink brand started by the ex-football star Jerry Rice back in 2019. There are different Goat Fuel editions including a Jerry Rice edition, a Muhammad Ali edition, and as of recently - a Babe Ruth edition. I have previously had the Jerry Rice edition (unreviewed) and thought it was pretty mid. 
 
