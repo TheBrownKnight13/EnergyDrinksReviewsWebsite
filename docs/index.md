@@ -17,7 +17,6 @@ hide:
 | 06/23/24 | [Ghost Sour Patch Blue Rasberry](reviews/posts/ghost_sour_patch_blue_raspberry.md)                         | 2.9 / 10 |
 | 06/30/24 | [Rockstar Fruit Punch](reviews/posts/rockstar_fruit_punch.md)                                              | 7.5 / 10 |
 | 07/07/24 | [Bang Sour Heads](reviews/posts/bang_sour_heads.md)                                                        | 4.5 / 10 |
-| 07/14/24 | [Black Rifle Rich Mocha](reviews/posts/black_rifle_rich_mocha.md)                                          | 9.6 / 10 |
 | 07/14/24 | [Beyond Raw Lit Jolly Rancher Blue Rasberry](reviews/posts/beyond_raw_lit_jolly_rancher_blue_raspberry.md) | 8.1 / 10 |
 | 11/03/24 | [C4 Jolly Rancher](reviews/posts/c4_jolly_rancher.md)                                                      | 7.4 / 10 |
 | 11/11/24 | [Monster Ultra Vice Guava](reviews/posts/monster_ultra_vice_guava.md)                                      | 7.0 / 10 |
